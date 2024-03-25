@@ -60,4 +60,4 @@ display(df_lap_drivers)
 
 # COMMAND ----------
 
-df_lap_drivers.write.csv('s3://columnbia-gr5069/you.csv')
+df_lap_drivers.write.csv('s3://js6367-gr5069/processed/exercise/lap_drivers.csv')
